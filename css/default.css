@@ -2,7 +2,7 @@
 
 body{
     min-width:1200px;
-    font-family: 'NotoSans';
+    font-family: 'Noto Sans KR', sans-serif;
     color:#333;
 }
 body,h1,h2,h3,h4,h5,h6,p,dl,dt,dd{
@@ -14,7 +14,7 @@ ul{
     list-style:none;
 }
 a{
-    font-family: 'NotoSans';
+    font-family: 'Noto Sans KR', sans-serif;
     text-decoration:none;
     color:#333;
 }

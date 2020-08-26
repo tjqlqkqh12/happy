@@ -26,7 +26,6 @@
 .gnb li{
     float:left;
     padding:0 20px;
-    font-weight:bold;
 }
 
 .gnb li a{}
@@ -39,7 +38,6 @@
 .util li{
     float:left;
     font-size:12px;
-    font-weight:300;
     margin-left:20px;
 }
 .util li a{}
