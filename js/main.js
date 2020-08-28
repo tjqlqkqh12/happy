@@ -3,7 +3,7 @@ $(document).ready(function(){
         dots: true,
         infinite: true,
 		autoplay: true,
-		autoplaySpeed: 3500,
+		autoplaySpeed: 3000,
         slidesToShow: 1,
         slidesToScroll: 1,
 		prevArrow: "<button type='button' class='slickBtn slick-prev'>Previous</button>",
